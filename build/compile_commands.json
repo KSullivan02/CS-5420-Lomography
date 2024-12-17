@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/moistlad/Documents/UMSL FALL 2024/CMP_SCI_5420/Proj5/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/lomo.dir/main.cpp.o -c \"/home/moistlad/Documents/UMSL FALL 2024/CMP_SCI_5420/Proj5/main.cpp\"",
+  "file": "/home/moistlad/Documents/UMSL FALL 2024/CMP_SCI_5420/Proj5/main.cpp",
+  "output": "CMakeFiles/lomo.dir/main.cpp.o"
+}
+]

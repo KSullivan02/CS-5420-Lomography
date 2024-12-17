@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lomo.dir/main.cpp.o -o lomo
